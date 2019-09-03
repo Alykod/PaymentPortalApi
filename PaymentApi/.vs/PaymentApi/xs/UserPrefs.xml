@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{1A31F4DD-3D87-4FEE-B1A4-28F72EF11110}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PaymentApi/Services/BookService.cs">
+    <Files>
+      <File FileName="PaymentApi/Controllers/ValuesController.cs" Line="46" Column="1" />
+      <File FileName="PaymentApi/Program.cs" Line="25" Column="1" />
+      <File FileName="PaymentApi/Models/UserItem.cs" Line="21" Column="2" />
+      <File FileName="PaymentApi/Models/UserContext.cs" Line="14" Column="1" />
+      <File FileName="PaymentApi/Startup.cs" Line="19" Column="6" />
+      <File FileName="PaymentApi/Controllers/UserController.cs" Line="39" Column="1" />
+      <File FileName="PaymentApi/appsettings.json" Line="3" Column="27" />
+      <File FileName="PaymentApi/Models/PaymentDatabaseSettings.cs" Line="17" Column="2" />
+      <File FileName="PaymentApi/Services/BookService.cs" Line="1" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PaymentApi" expanded="True">
+            <Node name="PaymentApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="BookService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PaymentApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

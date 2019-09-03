@@ -1,0 +1,14 @@
+/Users/kod/Desktop/Development/PaymentPortal/paymentDOTNETapi/PaymentApi/PaymentApi/bin/Debug/netcoreapp2.2/PaymentApi.deps.json
+/Users/kod/Desktop/Development/PaymentPortal/paymentDOTNETapi/PaymentApi/PaymentApi/bin/Debug/netcoreapp2.2/PaymentApi.runtimeconfig.json
+/Users/kod/Desktop/Development/PaymentPortal/paymentDOTNETapi/PaymentApi/PaymentApi/bin/Debug/netcoreapp2.2/PaymentApi.runtimeconfig.dev.json
+/Users/kod/Desktop/Development/PaymentPortal/paymentDOTNETapi/PaymentApi/PaymentApi/bin/Debug/netcoreapp2.2/PaymentApi.dll
+/Users/kod/Desktop/Development/PaymentPortal/paymentDOTNETapi/PaymentApi/PaymentApi/bin/Debug/netcoreapp2.2/PaymentApi.pdb
+/Users/kod/Desktop/Development/PaymentPortal/paymentDOTNETapi/PaymentApi/PaymentApi/obj/Debug/netcoreapp2.2/PaymentApi.csprojAssemblyReference.cache
+/Users/kod/Desktop/Development/PaymentPortal/paymentDOTNETapi/PaymentApi/PaymentApi/obj/Debug/netcoreapp2.2/PaymentApi.csproj.CoreCompileInputs.cache
+/Users/kod/Desktop/Development/PaymentPortal/paymentDOTNETapi/PaymentApi/PaymentApi/obj/Debug/netcoreapp2.2/PaymentApi.RazorAssemblyInfo.cache
+/Users/kod/Desktop/Development/PaymentPortal/paymentDOTNETapi/PaymentApi/PaymentApi/obj/Debug/netcoreapp2.2/PaymentApi.RazorAssemblyInfo.cs
+/Users/kod/Desktop/Development/PaymentPortal/paymentDOTNETapi/PaymentApi/PaymentApi/obj/Debug/netcoreapp2.2/PaymentApi.AssemblyInfoInputs.cache
+/Users/kod/Desktop/Development/PaymentPortal/paymentDOTNETapi/PaymentApi/PaymentApi/obj/Debug/netcoreapp2.2/PaymentApi.AssemblyInfo.cs
+/Users/kod/Desktop/Development/PaymentPortal/paymentDOTNETapi/PaymentApi/PaymentApi/obj/Debug/netcoreapp2.2/PaymentApi.RazorTargetAssemblyInfo.cache
+/Users/kod/Desktop/Development/PaymentPortal/paymentDOTNETapi/PaymentApi/PaymentApi/obj/Debug/netcoreapp2.2/PaymentApi.dll
+/Users/kod/Desktop/Development/PaymentPortal/paymentDOTNETapi/PaymentApi/PaymentApi/obj/Debug/netcoreapp2.2/PaymentApi.pdb
